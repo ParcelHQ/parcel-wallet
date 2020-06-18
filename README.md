@@ -2,7 +2,7 @@
 Parcel wallet contains client side code to interact with parcel contracts for multiple token swapping and streaming in one transaction
 
 ## Background
-Parcel was developed at [Hack Money Hackathon 2020](). The first iteration was focused on sending tokens or ether to multiple addresses in one transaction.
+Parcel was developed at [Hack Money Hackathon 2020](https://hackathon.money). The first iteration was focused on sending tokens or ether to multiple addresses in one transaction.
 
 [Parcel Presentation at Hack Money](https://youtu.be/0MI-swWD1Xk?t=5477)
 
